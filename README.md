@@ -1,5 +1,7 @@
 ## Olá Mundo! Erick Gaspar 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&theme=radical)
+
 - 🔭 Atualmente trabalho com:
   - Manutenção de redes e, computadores;
   - Configuraçõe de antenas de internet via satélite como, Starlink;
@@ -8,6 +10,7 @@
   
 - 🌱 Atualmente estou aprendendo:
   - [Superior] Inteligência Artificial e Machine Learning
+
  
   <div style="display: inline_block"><br>
   <!---<img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">--->
@@ -28,4 +31,3 @@
   <a href="https://www.linkedin.com/in/erick-gaspar-858b7b188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
