@@ -5,10 +5,10 @@
 🌟 Desenvolvedor apaixonado por [Automação].
 
 🚀 Projetos em destaque:
-- [Open Web](link) - Descrição.
+- [Open Web](https://github.com/ErickGaspar7/open_web) - Que tal abrir os seus sites favoritos de maneira automática ?
 - [Projeto 2](link) - Descrição.
 
-🌐 Visite meu [Portfólio](https://seusite.com) ou conecte-se no [LinkedIn](https://linkedin.com/in/seu-usuario).
+🌐 Visite meu [em construção](emconstrução) ou conecte-se no [LinkedIn](https://linkedin.com/in/erick-gaspar-858b7b188).
 
 - 🔭 Atualmente trabalho com:
   - Manutenção de redes e, computadores;
