@@ -2,11 +2,20 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&theme=radical)
 
+🌟 Desenvolvedor apaixonado por [Automação].
+
+🚀 Projetos em destaque:
+- [Open Web](link) - Descrição.
+- [Projeto 2](link) - Descrição.
+
+🌐 Visite meu [Portfólio](https://seusite.com) ou conecte-se no [LinkedIn](https://linkedin.com/in/seu-usuario).
+
 - 🔭 Atualmente trabalho com:
   - Manutenção de redes e, computadores;
   - Configuraçõe de antenas de internet via satélite como, Starlink;
   - Criação de servidores online para armazenamento de arquivos;
   - Elaboração de plantas baixas para otimizar o espaço de trabalho.
+ 
   
 - 🌱 Atualmente estou aprendendo:
   - [Superior] Inteligência Artificial e Machine Learning
