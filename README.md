@@ -1,7 +1,5 @@
 ## Olá Mundo! Erick Gaspar 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&theme=radical)
-
 🌟 Desenvolvedor apaixonado por [Automação].
 
 🚀 Projetos em destaque:
